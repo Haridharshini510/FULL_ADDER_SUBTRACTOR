@@ -64,6 +64,7 @@ Full subtractor
 5.For different input combinations generate the timing diagram.
 
 **Program:**
+
 module ex3(a, b, c, sum, carry, diff, borrow);
 
     input a, b, c;
@@ -85,8 +86,7 @@ module ex3(a, b, c, sum, carry, diff, borrow);
     and g7(w7, b, c);
     
     or  g8(borrow, w5, w6, w7);
-    
-endmodule
+    endmodule
 
 **RTL Schematic**
 
