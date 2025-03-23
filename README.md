@@ -91,7 +91,7 @@ Full subtractor
 
 **RTL Schematic**
 
-![Screenshot (363)](https://github.com/user-attachments/assets/30ae4579-798c-4948-b280-fb433c097a8c)
+![Screenshot (362)](https://github.com/user-attachments/assets/7044bb6c-ea13-46b4-8f47-6305a4a2f001)
 
 **Output Timing Waveform**
 
