@@ -65,7 +65,7 @@ Full subtractor
 
 **Program:**
 
-module ex3(a, b, c, sum, carry, diff, borrow);
+    module ex3(a, b, c, sum, carry, diff, borrow);
 
     input a, b, c;
     
