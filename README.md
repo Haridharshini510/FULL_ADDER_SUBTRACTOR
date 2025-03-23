@@ -86,6 +86,7 @@ Full subtractor
     and g7(w7, b, c);
     
     or  g8(borrow, w5, w6, w7);
+    
     endmodule
 
 **RTL Schematic**
